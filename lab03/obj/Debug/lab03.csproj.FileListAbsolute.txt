@@ -1,0 +1,10 @@
+C:\Users\liamc\source\repos\lab03(2)\lab03\bin\Debug\lab03.exe.config
+C:\Users\liamc\source\repos\lab03(2)\lab03\bin\Debug\lab03.exe
+C:\Users\liamc\source\repos\lab03(2)\lab03\bin\Debug\lab03.pdb
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.Form1.resources
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.Properties.Resources.resources
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.csproj.GenerateResource.cache
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.exe
+C:\Users\liamc\source\repos\lab03(2)\lab03\obj\Debug\lab03.pdb
